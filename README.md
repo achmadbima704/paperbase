@@ -1,2 +1,0 @@
-# paperbase
-Created with CodeSandbox
